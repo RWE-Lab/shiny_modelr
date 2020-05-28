@@ -1,0 +1,7 @@
+---
+title: 'Mixed Model: Summary'
+output: html_document
+---
+## Mixed Model: Summary
+
+We present the summary results from R console print-outs analyzing the main effects and potential interactions in our mixed model.
